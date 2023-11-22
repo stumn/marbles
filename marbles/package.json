@@ -1,0 +1,20 @@
+{
+  "name": "marbles",
+  "version": "1.0.0",
+  "description": "\"Online Marble Melee is a real-time, online multiplayer game where players roll marbles against each other.\"",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "keywords": [
+    "sockets",
+    "p5.js",
+    "node"
+  ],
+  "author": "NAKANO Mao",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
